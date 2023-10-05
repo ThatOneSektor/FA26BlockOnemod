@@ -1,0 +1,19 @@
+{
+  "name": "FA26 Block One mod",
+  "description": "Moves some switches dials and buttons around the cockpit to replace one of the MFDs",
+  "dll_file": "",
+  "last_edit": 638320280422492683,
+  "pub_id": "",
+  "json_version": "",
+  "version": "1.0.0",
+  "tagline": "Just like the good ol days ",
+  "repository": "",
+  "is_public": true,
+  "unlisted": false,
+  "preview_image": "preview.png",
+  "web_preview_image": "web_preview.png",
+  "dependencies": [],
+  "mod_dependencies": null,
+  "menu_mod": false,
+  "ContentType": 3
+}
